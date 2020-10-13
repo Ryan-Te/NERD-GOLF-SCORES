@@ -1,2 +1,5 @@
 # NERD-GOLF-SCORES
 Scores for Nerd Golf
+
+COURSE 1:
+NO-ONE HAS SUBMITTED YET
